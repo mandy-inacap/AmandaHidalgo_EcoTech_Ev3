@@ -1,0 +1,3 @@
+# Unidad 3: requests para consumir las APIs externas.
+# El resto (sqlite3, hashlib, abc, datetime) es de la biblioteca estándar de Python 3.10+.
+requests>=2.31
